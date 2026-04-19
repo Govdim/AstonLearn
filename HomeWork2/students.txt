@@ -1,0 +1,2 @@
+Ivan|Book1,Author1,300,2005;Book2,Author2,250,1999;Book3,Author3,400,2010;Book4,Author4,150,2001;Book5,Author5,500,2020
+Petr|Book6,Author6,320,2003;Book7,Author7,200,1995;Book8,Author8,410,2015;Book9,Author9,180,2007;Book10,Author10,600,2018
